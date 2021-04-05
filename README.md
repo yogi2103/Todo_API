@@ -1,6 +1,3 @@
-# Hackathon backedn API Broad Infinity
-
-### Usage
 
 ```
     /list - (GET request)
