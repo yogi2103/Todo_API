@@ -15,21 +15,6 @@
 
 ```
 
-### Description 
-
-##### Day 1
-
-```
-* Setup basic structure of nodejs and mongodb (atlas)
-* Added routing for /list and /add
-* Created mondodb schema and linked it with the routing data's
-```
-
-##### Day 2
-
-```
-* Added error handling to inputs
-* Added the TTL feature of mongodb to delete expired task
-* Deployed the code to heruko
-* Added environment variables
-```
+* First run npm install command
+* Then run node app.js command 
+* For post request could be checked in Postman
